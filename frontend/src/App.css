@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style-type: none;
+}
+
+.navbar li {
+  display: inline;
+  margin-right: 15px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+form input, form button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.events-container ul {
+  list-style-type: none;
+}
+
+.events-container li {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
