@@ -1,14 +1,5 @@
 # MERN Event Management Application
 
-This is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js) that allows users to manage and register for events. The application includes functionalities for user registration, event creation, and event registration.
-
-## Features
-
-- User Registration: Users can create an account to register for events.
-- Event Creation: Admin users can create new events with details such as title, description, and date.
-- Event Registration: Users can register for events they are interested in.
-- User Dashboard: Users can view their registered events.
-
 ## Project Structure
 
 ```
